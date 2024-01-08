@@ -1,8 +1,7 @@
 import React from 'react'
 import './contact.css'
 import {MdOutlineEmail} from 'react-icons/md'
-import {RiMessengerLine} from 'react-icons/ri'
-import {BsWhatsapp} from 'react-icons/bs'
+import { CiMobile4 } from 'react-icons/ci'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
 
@@ -36,20 +35,13 @@ const Contact = () => {
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>dummyegator@gmail.com</h5>
-            <a href="mailto:dummyegator@gmail.com" target='_blank'>Send a message</a>
+            <h5>biletsiouflorina@gmail.com</h5>
+            <a href="mailto:biletsiouflorina@gmail.com" target='_blank'>Send a message</a>
           </article>
           <article className='contact__option'>
-            <RiMessengerLine className='contact__option-icon'/>
-            <h4>Messenger</h4>
-            <h5>Fb name</h5>
-            <a href="https://m.me/myprofile.name" target='_blank'>Send a message</a>
-          </article>
-          <article className='contact__option'>
-            <BsWhatsapp className='contact__option-icon'/>
-            <h4>WhatsApp</h4>
-            <h5>+123456789</h5>
-            <a href="https://api.whatsapp.com/send?phone=+12345678" target='_blank'>Send a message</a>
+            <CiMobile4 className='contact__option-icon'/>
+            <h4>Call Me</h4>
+            <a href="tel:004407393335312"> +44 07393335312 </a>
           </article>
 
         </div>
