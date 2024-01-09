@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/florinabiletsiou.com/static/css/main.4d9726e7.css",
-    "main.js": "/florinabiletsiou.com/static/js/main.03a9ec96.js",
-    "static/media/me-about.jpg": "/florinabiletsiou.com/static/media/me-about.a18a927d2c1869f99d5b.jpg",
-    "static/media/me-header.jpg": "/florinabiletsiou.com/static/media/me-header.a8806fa7c3ffca3cfcb0.jpg",
-    "static/media/portfolio2.jpg": "/florinabiletsiou.com/static/media/portfolio2.4d19e21e15bdb668fca5.jpg",
-    "static/media/CV.pdf": "/florinabiletsiou.com/static/media/CV.4da1f6f16b54315f5bc5.pdf",
-    "static/media/portfolio1.jpg": "/florinabiletsiou.com/static/media/portfolio1.f5d19a7e4bee81db4190.jpg",
-    "static/media/portfolio4.jpg": "/florinabiletsiou.com/static/media/portfolio4.cf5592d3fcd34fb5e556.jpg",
-    "static/media/portfolio5.jpg": "/florinabiletsiou.com/static/media/portfolio5.62859185bd1716ebb192.jpg",
-    "static/media/portfolio3.jpg": "/florinabiletsiou.com/static/media/portfolio3.91b4b1371050f5c20e82.jpg",
-    "index.html": "/florinabiletsiou.com/index.html",
-    "main.4d9726e7.css.map": "/florinabiletsiou.com/static/css/main.4d9726e7.css.map",
-    "main.03a9ec96.js.map": "/florinabiletsiou.com/static/js/main.03a9ec96.js.map"
+    "main.css": "/static/css/main.4d9726e7.css",
+    "main.js": "/static/js/main.6b355316.js",
+    "static/media/me-about.jpg": "/static/media/me-about.a18a927d2c1869f99d5b.jpg",
+    "static/media/me-header.jpg": "/static/media/me-header.a8806fa7c3ffca3cfcb0.jpg",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.4d19e21e15bdb668fca5.jpg",
+    "static/media/CV.pdf": "/static/media/CV.4da1f6f16b54315f5bc5.pdf",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5d19a7e4bee81db4190.jpg",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.cf5592d3fcd34fb5e556.jpg",
+    "static/media/portfolio5.jpg": "/static/media/portfolio5.62859185bd1716ebb192.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.91b4b1371050f5c20e82.jpg",
+    "index.html": "/index.html",
+    "main.4d9726e7.css.map": "/static/css/main.4d9726e7.css.map",
+    "main.6b355316.js.map": "/static/js/main.6b355316.js.map"
   },
   "entrypoints": [
     "static/css/main.4d9726e7.css",
-    "static/js/main.03a9ec96.js"
+    "static/js/main.6b355316.js"
   ]
 }
